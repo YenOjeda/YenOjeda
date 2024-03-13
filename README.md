@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/banner.png)
+### HOLA, BIENVENIDO A MI ESPACIO ![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/banner.png)
 
 ## About me
 
