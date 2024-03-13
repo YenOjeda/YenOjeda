@@ -15,8 +15,8 @@
 <h3>Intereses 😊</h3>
 
 - Me interesa seguir aprendiendo sobre los datos.
-- Me emociona poner en práctica las habilidades que conseguí en Laboratoria.
-- Me interesa seguir aprendiendo y profundizando en lenguajes de porgramción.
+- Me emociona poner en práctica las habilidades que conseguí en Laboratoria, en una buena empresa.
+- Me interesa seguir aprendiendo y profundizando en lenguajes de programción.
 - Me emociona seguir descubriendo historias a través de los datos.
 
 <h3>Lenguajes y herramientas 👩‍💻</h3>
