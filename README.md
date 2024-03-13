@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**YenOjeda/YenOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/IMG-20180325-WA0233.jpg)
 
 Here are some ideas to get you started:
 
