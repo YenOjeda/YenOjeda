@@ -2,8 +2,7 @@
 
 ![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/IMG-20180325-WA0233.jpg)
 
-Here are some ideas to get you started:
-
+## About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
