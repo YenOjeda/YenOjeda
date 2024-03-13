@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/IMG-20180325-WA0233.jpg)
+![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/banner.png)
 
 ## About me
 
