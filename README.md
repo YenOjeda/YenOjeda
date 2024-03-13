@@ -1,4 +1,8 @@
-### HOLA, BIENVENIDO A MI ESPACIO ![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/banner.png)
+### HOLA, BIENVENID@ A MI ESPACIO!!! <div align="center">
+ <h1 align="center"> ¡Bienvenida(o)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+
+![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/banner.png)
 
 ## About me
 
