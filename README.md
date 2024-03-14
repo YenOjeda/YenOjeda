@@ -39,6 +39,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
 
+# Airbnb
+## Dashboard using PowerBI
+![Amazon Sales](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Data-Lab.PNG)
+# Relative Risk
+## Dashboard using Looker Studio
+![Relative Risk](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Riesgo%20relativo.jpg)
+# Spotify Streams
+## Dashboard using Power BI
+![Spotify](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Proyecto%20Hipotesis.jpg)
+
 
 
 
