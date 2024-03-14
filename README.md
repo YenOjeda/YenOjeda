@@ -44,10 +44,10 @@
 ![Airbnb NY](https://github.com/YenOjeda/Business-Intelligence/blob/main/Airbnb%20Power%20BI.pdf)
 # Relative Risk
 ## Dashboard using Looker Studio
-![Relative Risk](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Riesgo%20relativo.jpg)
+![Relative Risk]()
 # Spotify Streams
 ## Dashboard using Power BI
-![Spotify](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Proyecto%20Hipotesis.jpg)
+![Spotify]()
 
 
 
