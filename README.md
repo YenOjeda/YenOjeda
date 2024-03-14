@@ -1,7 +1,7 @@
  ### HOLA, BIENVENID@ A MI ESPACIO!!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/banner.png)
+![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/BANNER%20(2).png)
 
 ### Analísta de datos con amplia experiencia en producción animal, amante de la naturaleza, los viajes, la buena comida y el mar.<img align="right" width="58%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 
