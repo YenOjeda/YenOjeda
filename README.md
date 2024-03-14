@@ -41,9 +41,9 @@
 
 # Airbnb New York
 ## Dashboard using PowerBI![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
-# Relative Risk
-## Dashboard using Looker Studio
-![Relative Risk]()
+# CitiBike NY
+## Dashboard using PowerBI
+![CitiBike NY](https://raw.githubusercontent.com/YenOjeda/CitiBike_NY/main/Proyecto%20CitiBike-1.png)
 # Spotify Streams
 ## Dashboard using Power BI
 ![Spotify]()
