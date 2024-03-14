@@ -40,8 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
 
 # Airbnb New York
-## Dashboard using PowerBI
-![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
+## Dashboard using PowerBI![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
 # Relative Risk
 ## Dashboard using Looker Studio
 ![Relative Risk]()
