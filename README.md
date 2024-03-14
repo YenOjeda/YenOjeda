@@ -49,7 +49,7 @@
 ![Spotify](https://raw.githubusercontent.com/YenOjeda/Hipotesis/main/Hipotesis-1.png)
 # Riesgo Relativo / Score Crediticio
 ## Dashboard using Looker Studio
-![Riesgo Relativo](https://raw.githubusercontent.com/YenOjeda/Hipotesis/main/Hipotesis-1.png)
+![Riesgo Relativo]()
 
 
 
