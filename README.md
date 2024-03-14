@@ -3,7 +3,7 @@
 
 ![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/b.png)
 
-### Analísta de datos con amplia experiencia en producción animal, amante de la naturaleza, los viajes, la buena comida y el mar.<img align="right" width="40%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+### Analista de datos con amplia experiencia en producción animal, me fascina la navidad pero tambien soy amante de la naturaleza, los viajes, la buena comida y el mar.<img align="right" width="40%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 
 <h3>Sobre mí 👩</h3> 
 
