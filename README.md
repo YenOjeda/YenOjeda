@@ -7,8 +7,8 @@
 
 <h3>Sobre mí 👩</h3> 
 
-- Culmine mis estudios de Data Analyst en Laboratoria, en donde adquirí conociemientos en el manejo de datos (ETL, BigQuery (SQL), PowerBI,
- Looker studio, Python).
+- Culmine mis estudios de Data Analyst en Laboratoria, en donde adquirí conociemientos en el manejo de datos (ETL, BigQuery (SQL),
+ PowerBI,Looker studio, Python).
 - Actualmente me encuentro complementando mis estudios con los cursos que hay en la plataforma de Desafio Latam en SQL y Python.
 - Actualmente estoy realizando un curso de Análisis financiero en el SENA.
 - Actualmente no me encuentro laborando.
