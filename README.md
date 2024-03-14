@@ -41,7 +41,7 @@
 
 # Airbnb New York
 ## Dashboard using PowerBI
-![Airbnb NY](https://github.com/YenOjeda/Business-Intelligence/blob/main/Airbnb%20Power%20BI.pdf)
+![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
 # Relative Risk
 ## Dashboard using Looker Studio
 ![Relative Risk]()
