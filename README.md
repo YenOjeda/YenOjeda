@@ -39,9 +39,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
 
-# Airbnb
+# Airbnb New York
 ## Dashboard using PowerBI
-![Amazon Sales](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Data-Lab.PNG)
+![Airbnb NY](https://github.com/YenOjeda/Business-Intelligence/blob/main/Airbnb%20Power%20BI.pdf)
 # Relative Risk
 ## Dashboard using Looker Studio
 ![Relative Risk](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Riesgo%20relativo.jpg)
