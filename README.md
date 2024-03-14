@@ -22,7 +22,6 @@
 
 <h3>Lenguajes y herramientas 👩‍💻</h3>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" tittle="Google-Cloud" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" tittle="Big-Query" width="40" height="40"/>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" title="Power-BI" width="40" height="40"/>&nbsp;
 <img src="https://cdn.simpleicons.org/microsoftexcel" tittle="Microsoft-Excel" width="40" height="40"/>&nbsp;
