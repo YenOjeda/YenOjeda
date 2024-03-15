@@ -33,9 +33,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
 
-## <h3>Sumérgete en mis proyectos y descubre el mundo que estoy creando 👩‍💻</h3>
+# <h3>SUMÉRGETE EN MIS PROYECTOS Y DESCUBRE EL MUNDO QUE ESTOY CREANDO 👩‍💻</h3>
 
-# Airbnb New York
+## Airbnb New York
 ## Dashboard using PowerBI![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
 # CitiBike NY
 ## Dashboard using PowerBI
