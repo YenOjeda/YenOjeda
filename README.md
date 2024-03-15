@@ -35,10 +35,10 @@
 
 # <h3>SUMÉRGETE EN MIS PROYECTOS Y DESCUBRE EL MUNDO QUE ESTOY CREANDO 👩‍💻</h3>
 
-## Airbnb New York /## Dashboard using PowerBI![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
-# CitiBike NY / ## Dashboard using PowerBI ![CitiBike NY](https://raw.githubusercontent.com/YenOjeda/CitiBike_NY/main/Proyecto%20CitiBike-1.png)
-# Spotify Streams / ## Dashboard using Power BI ![Spotify](https://raw.githubusercontent.com/YenOjeda/Hipotesis/main/Hipotesis-1.png)
-# Riesgo Relativo / Score Crediticio / ## Dashboard using Looker Studio ![Riesgo Relativo](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/Riesgo_Relativo-5.jpg)
+## Airbnb New York / Dashboard using PowerBI![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
+# CitiBike NY / Dashboard using PowerBI ![CitiBike NY](https://raw.githubusercontent.com/YenOjeda/CitiBike_NY/main/Proyecto%20CitiBike-1.png)
+# Spotify Streams / Dashboard using Power BI ![Spotify](https://raw.githubusercontent.com/YenOjeda/Hipotesis/main/Hipotesis-1.png)
+# Riesgo Relativo / Score Crediticio / Dashboard using Looker Studio ![Riesgo Relativo](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/Riesgo_Relativo-5.jpg)
 
 
 
