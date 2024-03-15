@@ -5,9 +5,9 @@
 
 ![Hi](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/b.png)
 
-<img align="right" width="40%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
-
 ## <h3>Sobre mí 👩</h3> 
+
+<img align="right" width="40%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 
 - Culmine mis estudios de Data Analyst en Laboratoria, en donde adquirí conociemientos en el manejo de datos (ETL, BigQuery (SQL),
  PowerBI,Looker studio, Python).
