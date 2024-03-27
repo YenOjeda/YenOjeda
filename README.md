@@ -9,9 +9,10 @@
 
 <img align="right" width="40%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 
-- Culmine mis estudios de Data Analyst en Laboratoria, en donde adquirí conociemientos en el manejo de datos (ETL, BigQuery (SQL),
+- Me apasiona descifrar las historias detrás de los datos y utilizarlas para crear soluciones innovadoras. Participo activamente en todas las etapas del proyecto, desde la recolección y limpieza de datos hasta la creación de informes detallados.
+- Culmine mis estudios de Data Analyst en Laboratoria, en donde adquirí conociemientos en el manejo de datos (ETL (Limpieza y transformación), BigQuery (SQL),
  PowerBI,Looker studio, Python).
-- Actualmente me encuentro complementando mis estudios en SQL, Python y Tablaou.
+- Actualmente me encuentro complementando mis estudios en SQL, Python y Tableau.
 - Actualmente estoy realizando un curso de Análisis financiero en el SENA.
   
 ## <h3>Intereses 😊</h3>
@@ -36,9 +37,9 @@
 # <h3>SUMÉRGETE EN MIS PROYECTOS Y DESCUBRE EL MUNDO QUE ESTOY CREANDO 👩‍💻</h3>
 
 ## Airbnb New York / Dashboard using PowerBI![Airbnb NY](https://raw.githubusercontent.com/YenOjeda/Business-Intelligence/main/Airbnb%20Power%20BI-1.png)
-# CitiBike NY / Dashboard using PowerBI ![CitiBike NY](https://raw.githubusercontent.com/YenOjeda/CitiBike_NY/main/Proyecto%20CitiBike-1.png)
-# Spotify Streams / Dashboard using Power BI ![Spotify](https://raw.githubusercontent.com/YenOjeda/Hipotesis/main/Hipotesis-1.png)
-# Riesgo Relativo / Score Crediticio / Dashboard using Looker Studio ![Riesgo Relativo](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/Riesgo_Relativo-5.jpg)
+## CitiBike NY / Dashboard using PowerBI ![CitiBike NY](https://raw.githubusercontent.com/YenOjeda/CitiBike_NY/main/Proyecto%20CitiBike-1.png)
+## Spotify Streams / Dashboard using Power BI ![Spotify](https://raw.githubusercontent.com/YenOjeda/Hipotesis/main/Hipotesis-1.png)
+## Riesgo Relativo / Score Crediticio / Dashboard using Looker Studio ![Riesgo Relativo](https://raw.githubusercontent.com/YenOjeda/YenOjeda/main/Riesgo_Relativo-5.jpg)
 
 
 
